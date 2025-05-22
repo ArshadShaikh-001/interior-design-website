@@ -26,7 +26,7 @@ A fully responsive and interactive interior design website built using HTML, CSS
 ## 🙋‍♀️ Author
 
 - **Arshad Shaikh**
-- GitHub: 
-- LinkedIn: 
+- GitHub: https://github.com/ArshadShaikh-001
+- LinkedIn: https://www.linkedin.com/in/arshad-shaikh-911b71346/
 
 
