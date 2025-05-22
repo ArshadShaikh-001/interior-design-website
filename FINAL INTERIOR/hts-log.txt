@@ -1,0 +1,22 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 04 Jul 2024 09:58:43 at https://crowdytheme.com/html/info/info-demo/interior-designer/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://crowdytheme.com/html/info/info-demo/interior-designer/ -O1 "C:\Users\sachi\OneDrive\Desktop\WEBAPPLICATION\Day 17\desingn interior" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+09:59:40	Error: 	"Not Found" (404) at link https://crowdytheme.com/html/info/info-demo/assets/css/animated-overlay.gif (from https://crowdytheme.com/html/info/info-demo/assets/css/progressbar.css)
+09:59:40	Error: 	"Not Found" (404) at link https://crowdytheme.com/html/info/info-demo/interior-designer/Version/ (from https://crowdytheme.com/html/info/info-demo/assets/js/TweenMax.min.js)
+09:59:40	Error: 	"Not Found" (404) at link https://crowdytheme.com/html/info/info-demo/interior-designer/12/30/ (from https://crowdytheme.com/html/info/info-demo/assets/js/main.js)
+09:59:40	Error: 	"Not Found" (404) at link https://crowdytheme.com/html/info/info-demo/interior-designer/src/js/index.js (from https://crowdytheme.com/html/info/info-demo/assets/js/wc-cursor.js)
+09:59:40	Error: 	"Not Found" (404) at link https://crowdytheme.com/html/info/info-demo/interior-designer/node_modules/gsap/gsap-core.js (from https://crowdytheme.com/html/info/info-demo/assets/js/wc-cursor.js)
+09:59:40	Error: 	"Not Found" (404) at link https://crowdytheme.com/html/info/info-demo/interior-designer/node_modules/gsap/CSSPlugin.js (from https://crowdytheme.com/html/info/info-demo/assets/js/wc-cursor.js)
+09:59:40	Error: 	"Not Found" (404) at link https://crowdytheme.com/html/info/info-demo/interior-designer/true/ (from https://crowdytheme.com/html/info/info-demo/assets/js/wc-cursor.js)
+09:59:40	Error: 	"Not Found" (404) at link https://crowdytheme.com/html/info/info-demo/interior-designer/node_modules/jquery/dist/jquery.js (from https://crowdytheme.com/html/info/info-demo/assets/js/wc-cursor.js)
+09:59:40	Error: 	"Not Found" (404) at link https://crowdytheme.com/html/info/info-demo/interior-designer/node_modules/gsap/index.js (from https://crowdytheme.com/html/info/info-demo/assets/js/wc-cursor.js)
+09:59:40	Error: 	"Not Found" (404) at link https://crowdytheme.com/html/info/info-demo/interior-designer/src/js/cursor.js (from https://crowdytheme.com/html/info/info-demo/assets/js/wc-cursor.js)
+09:59:40	Error: 	"Not Found" (404) at link https://crowdytheme.com/html/info/info-demo/interior-designer/src/js/magnetic.js (from https://crowdytheme.com/html/info/info-demo/assets/js/wc-cursor.js)
+
+HTTrack Website Copier/3.49-2 mirror complete in 57 seconds : 159 links scanned, 147 files written (10947237 bytes overall) [9030302 bytes received at 158426 bytes/sec], 2551713 bytes transferred using HTTP compression in 55 files, ratio 20%, 19.8 requests per connection
+(11 errors, 0 warnings, 0 messages)
