@@ -23,4 +23,10 @@ A fully responsive and interactive interior design website built using HTML, CSS
 | PHP        | Backend logic (form submission, validation, etc.)      |
 | MySQL      | Data storage (e.g., storing contact messages securely) |
 
+## 🙋‍♀️ Author
+
+- **Arshad Shaikh**
+- GitHub: 
+- LinkedIn: 
+
 
